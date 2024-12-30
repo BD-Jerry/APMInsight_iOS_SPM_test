@@ -304,29 +304,28 @@ let package = Package(
             name: "APMPlus_dependency",
             dependencies: [],
             path: "APMPlus",
-            publicHeadersPath: "",
-            linkerSettings: [
-                .linkedFramework("CoreFoundation"),
-                .linkedFramework("WebKit"),
-                .linkedFramework("SystemConfiguration"),
-                .linkedFramework("Security"),
-                .linkedFramework("CoreTelephony"),
-                .linkedLibrary("sqlite3"),
-                .linkedLibrary("c++abi"),
-                .linkedLibrary("z"),
-                .linkedLibrary("resolv"),
-                .linkedLibrary("c++")
+            exclude: [
+                "APMPlus_DSYMUploader_v2.sh",
+                "APMPlus_DSYMUploader.sh",
+                "APMInsight_DSYMUploader.sh"
             ],
             resources: [
                 .process("APMInsightHybridPro.bundle"),
                 .process("APMInsightCore.bundle"),
                 .process("APMInsightCrash.bundle"),
                 .process("APMInsightHybrid.bundle")
-            ],
-            exclude: [
-                "APMPlus_DSYMUploader_v2.sh",
-                "APMPlus_DSYMUploader.sh",
-                "APMInsight_DSYMUploader.sh"
+            ]
+            publicHeadersPath: "",
+                .linkedFramework("WebKit"),
+                .linkedFramework("CoreFoundation"),
+                .linkedFramework("SystemConfiguration"),
+                .linkedFramework("CoreTelephony"),
+                .linkedFramework("Security"),
+                .linkedLibrary("sqlite3"),
+                .linkedLibrary("c++abi"),
+                .linkedLibrary("c++"),
+                .linkedLibrary("z"),
+                .linkedLibrary("resolv")
             ]
         ),
     ]
