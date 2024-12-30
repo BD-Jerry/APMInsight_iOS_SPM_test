@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "RangersAPM"
+    name: "RangersAPM",
     platforms: [ .iOS(.v12)],
     products: [
         .library(
@@ -320,16 +320,16 @@ let package = Package(
             publicHeadersPath: "",
             linkerSettings: [
                 .linkedFramework("MetricKit"),
+                .linkedFramework("SystemConfiguration"),
+                .linkedFramework("Security"),
                 .linkedFramework("CoreFoundation"),
                 .linkedFramework("WebKit"),
                 .linkedFramework("CoreTelephony"),
-                .linkedFramework("SystemConfiguration"),
-                .linkedFramework("Security"),
-                .linkedLibrary("c++abi"),
-                .linkedLibrary("z"),
                 .linkedLibrary("c++"),
+                .linkedLibrary("c++abi"),
                 .linkedLibrary("resolv"),
-                .linkedLibrary("sqlite3")
+                .linkedLibrary("sqlite3"),
+                .linkedLibrary("z")
             ]
         ),
     ]
