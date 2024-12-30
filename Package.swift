@@ -315,18 +315,18 @@ let package = Package(
                 .process("APMInsightCrash.bundle"),
                 .process("APMInsightHybrid.bundle")
             ],
-            publicHeadersPath: "",,
+            publicHeadersPath: "",
             linkerSettings: [
-                .linkedFramework("CoreTelephony"),
-                .linkedFramework("Security"),
-                .linkedFramework("WebKit"),
-                .linkedFramework("SystemConfiguration"),
                 .linkedFramework("CoreFoundation"),
-                .linkedLibrary("z"),
-                .linkedLibrary("c++"),
+                .linkedFramework("CoreTelephony"),
+                .linkedFramework("SystemConfiguration"),
+                .linkedFramework("WebKit"),
+                .linkedFramework("Security"),
                 .linkedLibrary("c++abi"),
+                .linkedLibrary("resolv"),
                 .linkedLibrary("sqlite3"),
-                .linkedLibrary("resolv")
+                .linkedLibrary("z"),
+                .linkedLibrary("c++")
             ]
         ),
     ]
