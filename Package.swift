@@ -2,8 +2,10 @@
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
+
 let package = Package(
-    name: "RangersAPM",
+    name: "RangersAPM"
+    platforms: [ .iOS(.v12)],
     products: [
         .library(
             name: "APMPlus_Above",
@@ -318,16 +320,16 @@ let package = Package(
             publicHeadersPath: "",
             linkerSettings: [
                 .linkedFramework("MetricKit"),
-                .linkedFramework("WebKit"),
                 .linkedFramework("CoreTelephony"),
                 .linkedFramework("CoreFoundation"),
                 .linkedFramework("SystemConfiguration"),
                 .linkedFramework("Security"),
-                .linkedLibrary("c++"),
-                .linkedLibrary("resolv"),
-                .linkedLibrary("z"),
+                .linkedFramework("WebKit"),
                 .linkedLibrary("sqlite3"),
-                .linkedLibrary("c++abi")
+                .linkedLibrary("resolv"),
+                .linkedLibrary("c++abi"),
+                .linkedLibrary("c++"),
+                .linkedLibrary("z")
             ]
         ),
     ]
