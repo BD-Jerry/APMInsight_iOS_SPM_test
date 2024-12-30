@@ -320,16 +320,16 @@ let package = Package(
             publicHeadersPath: "",
             linkerSettings: [
                 .linkedFramework("MetricKit"),
-                .linkedFramework("CoreTelephony"),
                 .linkedFramework("CoreFoundation"),
+                .linkedFramework("WebKit"),
+                .linkedFramework("CoreTelephony"),
                 .linkedFramework("SystemConfiguration"),
                 .linkedFramework("Security"),
-                .linkedFramework("WebKit"),
-                .linkedLibrary("sqlite3"),
-                .linkedLibrary("resolv"),
                 .linkedLibrary("c++abi"),
+                .linkedLibrary("z"),
                 .linkedLibrary("c++"),
-                .linkedLibrary("z")
+                .linkedLibrary("resolv"),
+                .linkedLibrary("sqlite3")
             ]
         ),
     ]
