@@ -5,8 +5,8 @@
 //  Created by xuminghao.eric on 2023/5/19.
 //
 
-#import "RangersAPMForSDK.h"
-#import "RangersAPMCustomCommandBase.h"
+#import <APMPlus_Public/RangersAPMForSDK.h>
+#import <APMPlus_CloudCommand/RangersAPMCustomCommandBase.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

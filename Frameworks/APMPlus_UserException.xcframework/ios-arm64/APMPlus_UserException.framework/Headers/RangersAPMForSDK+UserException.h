@@ -5,9 +5,9 @@
 //  Created by xuminghao.eric on 2021/4/11.
 //
 
-#import "RangersAPMForSDK.h"
+#import <APMPlus_Public/RangersAPMForSDK.h>
 #import <mach/mach_types.h>
-#import "RangersAPMUserExceptionErrorType.h"
+#import <APMPlus_UserException/RangersAPMUserExceptionErrorType.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

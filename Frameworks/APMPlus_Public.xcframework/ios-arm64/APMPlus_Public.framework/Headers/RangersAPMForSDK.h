@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "RangersAPMForSDKConfig.h"
+#import <APMPlus_Public/RangersAPMForSDKConfig.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

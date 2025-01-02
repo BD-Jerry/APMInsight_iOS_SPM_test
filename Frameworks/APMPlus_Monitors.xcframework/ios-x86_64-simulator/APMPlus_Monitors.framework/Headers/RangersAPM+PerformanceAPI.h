@@ -5,8 +5,8 @@
 //  Created by xuminghao.eric on 2020/8/4.
 //
 
-#import "RangersAPM.h"
-#import "RangersAPMPerformanceErrorType.h"
+#import <APMPlus_Public/RangersAPM.h>
+#import <APMPlus_Monitors/RangersAPMPerformanceErrorType.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

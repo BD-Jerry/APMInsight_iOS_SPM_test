@@ -5,8 +5,8 @@
 //  Created by xuminghao.eric on 2021/11/25.
 //
 
-#import "RangersAPM.h"
-#import "RangersAPMConfig+NetworkPro.h"
+#import <APMPlus_Public/RangersAPM.h>
+#import <APMPlus_NetworkBasic/RangersAPMConfig+NetworkPro.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

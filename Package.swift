@@ -1,4 +1,4 @@
-// swift-tools-version: 5.4
+// swift-tools-version: 6.0
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -320,16 +320,16 @@ let package = Package(
             publicHeadersPath: "",
             linkerSettings: [
                 .linkedFramework("MetricKit"),
-                .linkedFramework("SystemConfiguration"),
                 .linkedFramework("Security"),
-                .linkedFramework("CoreFoundation"),
+                .linkedFramework("SystemConfiguration"),
                 .linkedFramework("WebKit"),
                 .linkedFramework("CoreTelephony"),
-                .linkedLibrary("c++"),
-                .linkedLibrary("c++abi"),
-                .linkedLibrary("resolv"),
+                .linkedFramework("CoreFoundation"),
                 .linkedLibrary("sqlite3"),
-                .linkedLibrary("z")
+                .linkedLibrary("resolv"),
+                .linkedLibrary("c++abi"),
+                .linkedLibrary("z"),
+                .linkedLibrary("c++")
             ]
         ),
     ]

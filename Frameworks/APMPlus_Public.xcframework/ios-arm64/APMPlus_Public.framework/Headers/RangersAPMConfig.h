@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "RangersAPMCommon.h"
+#import <APMPlus_Public/RangersAPMCommon.h>
 
 typedef NS_OPTIONS(NSUInteger, RangersAPMMonitorSwitch) {
     RangersAPMCrashMonitorSwitch = 1<<0,             //崩溃分析

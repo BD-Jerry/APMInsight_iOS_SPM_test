@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/RangersAPM+BootingProtect.h</key>
 		<data>
-		hho9/jOuGwbQel+uYUzNm8JFx4E=
+		jaPksHJVUgOsQBpfskvLb7g8YI8=
 		</data>
 		<key>Headers/RangersAPMBootingInfo.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/RangersAPMForSDK+BootingProtect.h</key>
 		<data>
-		yxa0mYdyuyFtUlg4bZpFdRWNk1Q=
+		H597sYEKwvqWAZg35LNXMSZZBvo=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -46,11 +46,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hho9/jOuGwbQel+uYUzNm8JFx4E=
+			jaPksHJVUgOsQBpfskvLb7g8YI8=
 			</data>
 			<key>hash2</key>
 			<data>
-			HlQQUwYhOyjIjUTcVhUyrK5u76EVHYanS961Wp0SxO0=
+			yIoxr/pPSzEBiJ8Jp9tvtdMcwh7R2zun0RMhw+yZmSI=
 			</data>
 		</dict>
 		<key>Headers/RangersAPMBootingInfo.h</key>
@@ -68,11 +68,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yxa0mYdyuyFtUlg4bZpFdRWNk1Q=
+			H597sYEKwvqWAZg35LNXMSZZBvo=
 			</data>
 			<key>hash2</key>
 			<data>
-			FuNbCPUAixwWYihQDwgltgJyQVkTkgu/x+RyDfgP/J0=
+			T2Pl0bVmChiINidoprJ+sq3J0VGx9WU73H1r4tK0JXs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/RangersAPM+ALog.h</key>
 		<data>
-		bkMhVC80t6WkfmbBQNoL5Qi/vZE=
+		ha9c6dNodRgF1xOPyqJ70P4oVwE=
 		</data>
 		<key>Headers/RangersAPMALogUtil.h</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>Headers/RangersAPMForSDK+ALog.h</key>
 		<data>
-		cBqT9nJOKQF4cFOEDA0nyYAjAv0=
+		XWmfhHo8fGyy44oVuqCrsgbDfw0=
 		</data>
 		<key>Headers/RangersAPM_ALog.h</key>
 		<data>
-		d1Yb0QGjL9uY4bIUyPtyQ6eZBJw=
+		brU+N+oUSZOmkqFclhtalA31Q48=
 		</data>
 		<key>Headers/RangersAPM_ForSDK_ALog.h</key>
 		<data>
-		9NzVpNKZR0vHKOMMF0RjhLYdFzg=
+		E0kEfGYiEaJGrTvy0bjDJWIGbFE=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -54,11 +54,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bkMhVC80t6WkfmbBQNoL5Qi/vZE=
+			ha9c6dNodRgF1xOPyqJ70P4oVwE=
 			</data>
 			<key>hash2</key>
 			<data>
-			f14gn67qjyZqYRveQ3TehKA+by3NGLDqDK3PrKDcRG0=
+			cdEvEW/+1Y3LCrur9BgXf2MfFx7xPdkZ0zwxFCannj8=
 			</data>
 		</dict>
 		<key>Headers/RangersAPMALogUtil.h</key>
@@ -76,33 +76,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cBqT9nJOKQF4cFOEDA0nyYAjAv0=
+			XWmfhHo8fGyy44oVuqCrsgbDfw0=
 			</data>
 			<key>hash2</key>
 			<data>
-			mu1EzTxKNMI4WLskpkqkK/xBcUzIgBTyTKiwmTMIHpI=
+			zSAkATBYpFvmoORpFO2kFhdyYdOxmOjA2ENtQ25oUu4=
 			</data>
 		</dict>
 		<key>Headers/RangersAPM_ALog.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d1Yb0QGjL9uY4bIUyPtyQ6eZBJw=
+			brU+N+oUSZOmkqFclhtalA31Q48=
 			</data>
 			<key>hash2</key>
 			<data>
-			cc5z2IYI9223daejR+BPFuR5PiRhogugwMMB9GLvLvU=
+			RPU+YdKY4UQ6swpYbsuNNyrssXprcL3psLf1ZMDifx0=
 			</data>
 		</dict>
 		<key>Headers/RangersAPM_ForSDK_ALog.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9NzVpNKZR0vHKOMMF0RjhLYdFzg=
+			E0kEfGYiEaJGrTvy0bjDJWIGbFE=
 			</data>
 			<key>hash2</key>
 			<data>
-			RPSQQPCSDjmGARTU6HU6y2HNetH/gtXTWcbcQFj46o4=
+			ZHTnj5h0pEomEhLa1wDnCh/UCtTc/Wid/nAB9ec2hD4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

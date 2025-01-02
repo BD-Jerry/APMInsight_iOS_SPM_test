@@ -5,8 +5,8 @@
 //  Created by xuminghao.eric on 2023/5/11.
 //
 
-#import "RangersAPMForSDK.h"
-#import "RangersAPMALogUtil.h"
+#import <APMPlus_Public/RangersAPMForSDK.h>
+#import <APMPlus_APMLog/RangersAPMALogUtil.h>
 
 /**
  Objective-C 日志记录方法，使用方法和 'NSLog' 相似

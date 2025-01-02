@@ -5,7 +5,7 @@
 //  Created by xuminghao.eric on 2022/7/11.
 //
 
-#import "RangersAPMConfig.h"
+#import <APMPlus_Public/RangersAPMConfig.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

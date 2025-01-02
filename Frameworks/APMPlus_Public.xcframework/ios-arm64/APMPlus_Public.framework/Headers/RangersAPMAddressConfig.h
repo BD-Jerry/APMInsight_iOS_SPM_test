@@ -6,7 +6,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "RangersAddressRange.h"
+#import <APMPlus_Public/RangersAddressRange.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/RangersAPM+CloudCommand.h</key>
 		<data>
-		VeHGo7JQW6OjWMO+XrXx2lEAOCo=
+		SCTgVm16LRQ2a3r3WzoxRjwjc8A=
 		</data>
 		<key>Headers/RangersAPMCustomCommandBase.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/RangersAPMForSDK+CloudCommand.h</key>
 		<data>
-		akRvadWtfkjr4l9vj416tiEHiX0=
+		J/yZWTnAn45y5Vs1V0x6ul/jsVw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -46,11 +46,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VeHGo7JQW6OjWMO+XrXx2lEAOCo=
+			SCTgVm16LRQ2a3r3WzoxRjwjc8A=
 			</data>
 			<key>hash2</key>
 			<data>
-			A/RwXcZcveHebcKEdnhfepI8T9GWqaBfE+CCJ83RbjY=
+			m1xV+aERYdHXsLzAiIi79mZ4EdSNuPckC+n6zFQqMtw=
 			</data>
 		</dict>
 		<key>Headers/RangersAPMCustomCommandBase.h</key>
@@ -68,11 +68,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			akRvadWtfkjr4l9vj416tiEHiX0=
+			J/yZWTnAn45y5Vs1V0x6ul/jsVw=
 			</data>
 			<key>hash2</key>
 			<data>
-			0zVtWLe9aimhTs4rYRMdv/pWaTEy4GCd6BNu9HGALXw=
+			1FvMKd/RnoCEvR+c2XBs68y56sIzpTy9nyRA+IFm5/4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

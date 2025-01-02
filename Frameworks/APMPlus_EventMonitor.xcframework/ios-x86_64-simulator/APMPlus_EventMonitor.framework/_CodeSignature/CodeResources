@@ -10,11 +10,11 @@
 		</data>
 		<key>Headers/RangersAPM+EventMonitor.h</key>
 		<data>
-		EI4aj0yj4z/2gSCIFNXfNoji9Co=
+		gYGpmbz59YV4/HMZYlrsT+7yySE=
 		</data>
 		<key>Headers/RangersAPMForSDK+EventMonitor.h</key>
 		<data>
-		CLrBBVnfDTdNVbBytGlVTp6UO3s=
+		L9yQHVndykOH/tqS9OqQ02f4Az0=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -42,22 +42,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EI4aj0yj4z/2gSCIFNXfNoji9Co=
+			gYGpmbz59YV4/HMZYlrsT+7yySE=
 			</data>
 			<key>hash2</key>
 			<data>
-			yqGdkJUVpd3rYA5aV6oT2d49i1sm6XoXT18p9mbCAXQ=
+			k7x7DUx9VSRDqovwyiecJgo51afG3eWPU65IvwzurzI=
 			</data>
 		</dict>
 		<key>Headers/RangersAPMForSDK+EventMonitor.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CLrBBVnfDTdNVbBytGlVTp6UO3s=
+			L9yQHVndykOH/tqS9OqQ02f4Az0=
 			</data>
 			<key>hash2</key>
 			<data>
-			/ahXOjW+9tR7dFoGAoe4ViNodNep67w4bDs9yRFig0E=
+			P84MFKBMl9PnLAMWPEvhFeICQM86zSEO+9lgFriQTe4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

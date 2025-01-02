@@ -5,8 +5,8 @@
 //  Created by ByteDance on 2023/5/8.
 //
 
-#import "RangersAPM.h"
-#import "RangersAPMCustomCommandBase.h"
+#import <APMPlus_Public/RangersAPM.h>
+#import <APMPlus_CloudCommand/RangersAPMCustomCommandBase.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

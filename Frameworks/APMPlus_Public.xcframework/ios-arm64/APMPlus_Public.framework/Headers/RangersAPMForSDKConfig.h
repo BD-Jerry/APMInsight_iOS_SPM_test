@@ -6,8 +6,8 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "RangersAPMAddressConfig.h"
-#import "RangersAPMCommon.h"
+#import <APMPlus_Public/RangersAPMAddressConfig.h>
+#import <APMPlus_Public/RangersAPMCommon.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
